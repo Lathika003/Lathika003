@@ -39,7 +39,7 @@ Building scalable SaaS products and pixel-perfect, immersive 3D user interfaces.
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🐍 
 
 <div align="center">
 <picture>
